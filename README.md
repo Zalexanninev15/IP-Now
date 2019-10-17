@@ -14,6 +14,6 @@
 ## Сборка (требуется DevelNext и JDK)
 1. Скачиваем .zip архив нужной версии
 2. Скачиваем и устанавливаем [DevelNext](https://github.com/jphp-group/develnext/releases) и [JDK](https://www.oracle.com/technetwork/java/javase/downloads/2133151)
-3. Открываем скачанную версию лаунчера через "открытие проектов" в DevelNext
+3. Открываем скачанный файл через "открытие проектов" в DevelNext
 4. Собираем проект 
 5. Запускаем приложение и радуемся :)
