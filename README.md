@@ -1,4 +1,4 @@
-# IP Now ([Дальнейшаяя разработка происходит здесь](https://github.com/Zalexanninev15/IP-Now-next))
+# IP Now ([Дальнейшаяя разработка происходит здесь](https://github.com/Zalexanninev15/MyIP))
 ## [Скачать последнюю версию](https://github.com/Zalexanninev15/IP-Now/releases/tag/1.7)
 ![alt text](https://i.imgur.com/DQKCY2a.png) 
 #### Альтернативная ссылка на исходный код приложения: https://hub.develnext.org/project/tImHRQEUbqlF
