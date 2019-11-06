@@ -1,7 +1,7 @@
 # IP Now ([Дальнейшаяя разработка происходит здесь](https://github.com/Zalexanninev15/MyIP))
 ## [Скачать последнюю версию](https://github.com/Zalexanninev15/IP-Now/releases/tag/1.7)
+## Скриншот
 ![alt text](https://i.imgur.com/DQKCY2a.png) 
-#### Альтернативная ссылка на исходный код приложения: https://hub.develnext.org/project/tImHRQEUbqlF
 ## Описание
 Портативное приложение, которое позволяет узнать IP адрес вашего компьютера в сети Интернет.
 ## Особенности
@@ -17,3 +17,4 @@
 3. Открываем скачанный файл через "открытие проектов" в DevelNext
 4. Собираем проект 
 5. Запускаем приложение и радуемся :)
+### Альтернативная ссылка на исходный код приложения: https://hub.develnext.org/project/tImHRQEUbqlF
